@@ -1,8 +1,8 @@
 <img src='public/logo.svg' alt='logo' width=100px/>
 
-## Vienna
+## Your world
 
-Vienna is a social media platform for travelling enthusiasts. 
+Your world is a social media platform for anyone who likes to make this app their world of memories. 
 Join our platform today in few easy steps and start sharing your experiences with your friends. Create images, thoughts or emojis. Bookmark important posts and get active notifications on like, comment and follow request.
 
 ## Screens available in this project
@@ -19,7 +19,7 @@ Join our platform today in few easy steps and start sharing your experiences wit
 
 ## Features
 
-- Token based authentication
+- JWT Token authentication
 - Protected pages, as well as protected api endpoints
 - Filters on homepage to sort by latest posts or get trneding posts
 - Bookmark/Unbookmark a post from any page
@@ -43,10 +43,6 @@ Join our platform today in few easy steps and start sharing your experiences wit
 
 ## Live preview
 
-[Vienna](https://vienna-app.netlify.app/)
-
-## Demo Video
-
-https://user-images.githubusercontent.com/26894106/168419894-576f92d4-b34b-45ed-a5f8-34d4c64b065f.mp4
+[Your-world](https://vienna-app.netlify.app/)
 
 

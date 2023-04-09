@@ -1,2 +1,0 @@
-- Fixed a bug with create new post (new post is now visible on homepage)
-- Styling fix
